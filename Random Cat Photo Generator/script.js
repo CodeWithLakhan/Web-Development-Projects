@@ -1,8 +1,6 @@
 const btn = document.querySelector("button")
 const img = document.querySelector("img")
 const fact = document.querySelector("p")
-console.log(fact);
-console.log(img);
 
 btn.addEventListener("click", async (evt)=>{
     evt.preventDefault()
