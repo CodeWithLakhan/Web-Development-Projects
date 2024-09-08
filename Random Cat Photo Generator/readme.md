@@ -1,0 +1,1 @@
+<h3> Built a dynamic web application that generates a random cat fact and displays a corresponding cat image using API integration. The project allows users to click a 'generate' button for instant content, demonstrating skills in API handling, asynchronous data fetching, and user interaction. </h3>
